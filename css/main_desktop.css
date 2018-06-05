@@ -1,0 +1,22 @@
+/* home middle callout */
+.middle_callout{
+	height:400px;
+}
+.middle_callout img.left{
+	display:block;
+	left:60px;
+}
+.middle_callout img.right{
+	display:block;
+	right:60px;
+}
+.middle_callout .text{
+	font-size:60px;
+}
+.middle_callout .text span{
+	font-size:25px;
+}
+.middle_callout .text i{
+	font-size:35px;
+}
+/* home middle callout */
