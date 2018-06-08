@@ -11,6 +11,10 @@ a{
 a:hover{
 	color:yellow;
 }
+#name{
+	color: white;
+	font-size: 40px;
+}
 header{
 	position:relative;
 	z-index:2;

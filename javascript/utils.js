@@ -10,3 +10,5 @@ $(document).ready(function(){
 		$('.middle_floating_menu ul.fbox_container li .box img').removeClass('expand');
 	});
 });
+
+
