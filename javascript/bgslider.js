@@ -1,18 +1,15 @@
 var SliderController = new function(){
 	var instance = this;
 
-	var images = [/*{
-		img:'images/slider/1.jpg',
-		text:'Do You Like It Raw?<span>simple flavors, great execution and pristine ingredients.</span>'
-	},*/{
-		img:'/images/slider/3.jpg',
-		text:'Fresh Cuts Served Daily.<span>Mon - Thu:  11:30AM - 10:00PM</span><span>Fri - Sat:  11:30AM - 10:30PM</span><span>Sun:  03:00PM - 10:00PM</span><i>B.Y.O.B.</i>'
+	var images = [{
+		img:'./images/hdspace9.jpg',
+		text:'write something fresh'
 	},{
-		img:'/images/slider/second_bullet.jpg',
-		text:'Taste Japanese Fusion Rolls<span>& Feel Real Fresh!!</span>'
+		img:'./images/hdspace5.jpg',
+		text:'anything fresh'
 	},{
-		img:'/images/slider/1.jpg',
-		text:'Try our Daily Lunch Specials!!<span>Mon - Sat 11:30AM - 3:00PM</span>'
+		img:'./images/hdspace3.jpg',
+		text:'more things fresh'
 	}];
 
 	var curIndex = images.length-1;
