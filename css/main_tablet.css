@@ -49,9 +49,7 @@ header ul.nav li a:hover{
 	text-shadow:0px 0px 10px white;
 	color:yellow;
 }
-header ul.nav li.selected a{
-	color:#e64442;
-}
+
 /* navigation */
 
 
