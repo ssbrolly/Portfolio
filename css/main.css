@@ -554,7 +554,7 @@ footer p.copy{
 	text-align:center;
 	color:#c8c8c8;
 	font-size:12px;
-	margin:0px;
+	margin-top:70%;
 	padding:10px 0px;
 }
 /* footer */
@@ -612,7 +612,7 @@ footer p.copy{
 	
 	background-image:url(/images/wood.png);
 }
-.page_content .page_container{
+.page_content{
 	background-color:#171717;
 	border:3px solid #212121;
 	border-top:none;
@@ -1003,6 +1003,15 @@ ul.col2 ul.hours li{
 	font-size:22px;
 	padding:0px;
 }
+
+#myVideo {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%; 
+	z-index: -1;
+	min-height: 75%;
+  }
 
 .contact ul.col2 li{
 	float:none;
