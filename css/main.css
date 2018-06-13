@@ -393,8 +393,8 @@ header ul.nav li a:hover{
 
 /* home floating menu */
 
-/* home mrsushipa */
-.mrsushipa{
+/* home usong */
+.usong{
 	position:relative;
 	z-index:1;
 	
@@ -406,7 +406,7 @@ header ul.nav li a:hover{
 	background:rgba(0,0,0,0.3);
 }
 
-/* home mrsushipa */
+/* home usong */
 
 /* footer */
 footer{
@@ -555,7 +555,7 @@ footer p.copy{
 	color:#c8c8c8;
 	font-size:12px;
 	margin-top:70%;
-	padding:10px 0px;
+	padding:0px 0px;
 }
 /* footer */
 

@@ -3,13 +3,13 @@ var SliderController = new function(){
 
 	var images = [{
 		img:'./images/hdspace9.jpg',
-		text:'write something fresh'
+		text:'something'
 	},{
 		img:'./images/hdspace5.jpg',
-		text:'anything fresh'
+		text:'anything'
 	},{
 		img:'./images/hdspace3.jpg',
-		text:'more things fresh'
+		text:'nothing'
 	}];
 
 	var curIndex = images.length-1;
