@@ -8,7 +8,7 @@ var SliderController = new function(){
 		img:'./images/hdspace5.jpg',
 		text:''
 	},{
-		img:'./images/hdspace3.jpg',
+		img:'./images/hdspace4.jpg',
 		text:''
 	}];
 
